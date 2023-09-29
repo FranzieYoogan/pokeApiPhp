@@ -1,0 +1,20 @@
+.logoTitleheader {
+
+    font-weight: 900;
+
+}
+
+
+.navbarStyle {
+
+    border-bottom: 2px solid black;
+
+}
+
+.linkHeader:hover, .linkHeader:active, .linkHeader:focus {
+
+        color: orange;
+
+
+
+}

@@ -1,7 +1,7 @@
 
 <?php
 include ('./head.inc.php');
-
+include('./header.php');
 
 
 
