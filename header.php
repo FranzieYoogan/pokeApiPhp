@@ -7,7 +7,7 @@
 
 <nav class="bg-white border-gray-200 dark:bg-gray-900 navbarStyle">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-    <a href="./home.php" class="flex items-center">
+    <a href="./home.php" class="flex items-center linkLogoStyle">
         <img src="public/img/logo/charmander.png" class="h-8 mr-3" alt="PokeApiPhpLogo" />
         <span class="self-center text-2xl logoTitleheader"><span>PokeApi PHP</span>
     </a>
